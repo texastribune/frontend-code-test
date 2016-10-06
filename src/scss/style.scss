@@ -2,46 +2,31 @@
 // SCSS MIXINS
 //----------------------------------*/
 
-@import 'mixins/_vendor.scss';
-@import 'mixins/_position.scss';
-
 //----------------------------------*\
 // CONFIG MODULES
 //----------------------------------*/
 
-// Config modules
-@import 'modules/_vars.scss';
-@import 'modules/_clearfix.scss';
-@import 'modules/_normalize.scss';
-@import 'modules/_defaults.scss';
+@import 'modules/vars';
+@import 'modules/clearfix';
+@import 'modules/normalize';
+@import 'modules/defaults';
+
+@import 'modules/colors';
+@import 'modules/buttons';
+@import 'modules/inputs';
+@import 'modules/lists';
+@import 'modules/typography';
+@import 'modules/misc';
+@import 'modules/app';
+
+@import 'modules/breakpoints';
 
 //----------------------------------*\
 // PARTIALS
 //----------------------------------*/
 
-@import 'partials/_header.scss';
-@import 'partials/_nav.scss';
-@import 'partials/_sidebar.scss';
-@import 'partials/_main.scss';
-@import 'partials/_footer.scss';
-
-//----------------------------------*\
-// OBJECTS & MODULES
-//----------------------------------*/
-
-@import 'modules/_buttons.scss';
-@import 'modules/_inputs.scss';
-@import 'modules/_lists.scss';
-@import 'modules/_typography.scss';
-@import 'modules/_misc.scss';
-@import 'modules/_app.scss';
-
-// Enhancement modules
-@import 'modules/_breakpoints.scss';
-@import 'modules/_print.scss';
-
-//----------------------------------*\
-// VENDOR
-//----------------------------------*/
-
-@import 'vendor/_external.scss';
+@import 'partials/header';
+@import 'partials/nav';
+@import 'partials/sidebar';
+@import 'partials/main';
+@import 'partials/footer';
