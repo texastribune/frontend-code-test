@@ -1,4 +1,9 @@
-# FireShell [![Build Status](https://travis-ci.org/toddmotto/fireshell.png)](https://travis-ci.org/toddmotto/fireshell)
+# Texas Tribune - Front End Code Test
+
+
+# Original Boilerplate Documentation
+
+## FireShell [![Build Status](https://travis-ci.org/toddmotto/fireshell.png)](https://travis-ci.org/toddmotto/fireshell)
 
 Fiercely quick front-end boilerplate and workflows.
 
@@ -8,7 +13,7 @@ The opinionated FireShell framework. Built for the modern developer. For teams a
 * Homepage: [getfireshell.com](http://getfireshell.com)
 * Twitter: [@getfireshell](http://twitter.com/getfireshell)
 
-## Jump start
+### Jump start
 
 Get started with FireShell:
 
@@ -17,15 +22,15 @@ Get started with FireShell:
 2. Clone the git repo — `git clone
    https://github.com/toddmotto/fireshell.git`
 
-## Platform support
+### Platform support
 
 FireShell runs on both Mac OS X, Linux and Windows. Automated command-line scripts are only supported on Mac OS X and Windows.
 
-## Documentation
+### Documentation
 
 Read the developer [documentation](//github.com/toddmotto/fireshell/blob/master/docs/DOCS.md) on FireShell for further reading and learning. You may need to install a few assets before you can get started, such as Node, Git, Grunt.
 
-## Features
+### Features
 
 Here are some of the main features of FireShell:
 
@@ -49,7 +54,7 @@ Here are some of the main features of FireShell:
 * No superfluous code comments
 * Extremely lightweight footprint
 
-## Scaffolding
+### Scaffolding
 
 ````
 ├── app
@@ -83,7 +88,7 @@ Here are some of the main features of FireShell:
 └── .travis.yml
 ````
 
-## Roadmap
+### Roadmap
 
 Projected roadmap for FireShell and it's subsets builds.
 
@@ -96,13 +101,13 @@ Projected roadmap for FireShell and it's subsets builds.
 * Create a Yeoman generator for FireShell
 * Add [grunt-autoprefixer](//github.com/nDmitry/grunt-autoprefixer) in place of `vendor` Sass mixin.
 
-## Contributors
+### Contributors
 
 FireShell is maintained by [Todd Motto](//github.com/toddmotto) and it's contributors; [Jean-Philippe Sirois](//github.com/jpsirois), [Noah Bass](//github.com/noahbass), [Bernard Chhun](//github.com/bchhun), [Chris Missal](//github.com/ChrisMissal), [Mihai Ionut Vilcu](//github.com/ionutvmi), [Octavio Amuchastegui](//github.com/octavioamu).
 
-## License
+### License
 
-#### The MIT License (MIT)
+##### The MIT License (MIT)
 
 Copyright (c) FireShell
 
