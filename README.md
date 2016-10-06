@@ -1,7 +1,7 @@
 # Texas Tribune - Front End Code Test
 The goal of this test is to see how you create a page based on a prototype. We'll be looking at (1) how you construct the project, (2) how you translate the Desktop prototype into a responsive mobile version and (3) how your javascript functions.
 
-Imagine that you've been tasked with redesigning our membership sign-up page. When the user decides to give money, we want to offer them a range of membership levels by payment rate with the option to pay annually, monthly or give a one-time donation.
+Imagine that you've been tasked with redesigning our membership sign-up page. When the user decides to give money, we want to offer them a range of membership levels by payment rate with the option to pay annually, monthly or give a one-time donation. You'll find a sketch prototype of the page in the root directory in a file titled `Support Prototype.png`.
 
 When the user selects to give "Annually" or "One-Time" the payment options should become $35, $60, $150, $250, $500 and $[input]. If they switch to "Monthly", the payment options should become $4, $9, $17, $31, $63 and $[input].
 
