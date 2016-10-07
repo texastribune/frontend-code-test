@@ -1,5 +1,7 @@
 # Texas Tribune - Front End Code Test
-The goal of this test is to see how you create a page based on a prototype. We'll be looking at (1) how you construct the project, (2) how you translate the Desktop prototype into a responsive mobile version and (3) how your javascript functions.
+The goal of this test is to see how you create a page based on a prototype. We'll be looking at (1) how you construct the project, (2) how you translate the Desktop prototype into a responsive mobile version and (3) how your javascript functions. We want you to create a functioning page that console logs or alerts accurate user input when you hit the submit button.
+
+Here's a link to our [style guide](http://texastribune.github.io/styleguides/newtribunestyle/) to help you. We don't expect your project to be fully stylized, but it should have basic visual styles applied and be generally consistent with our brand.
 
 Imagine that you've been tasked with redesigning our membership sign-up page. When the user decides to give money, we want to offer them a range of membership levels by payment rate with the option to pay annually, monthly or give a one-time donation. You'll find a sketch prototype of the page in the root directory in a file titled `Support Prototype.png`.
 
@@ -10,6 +12,7 @@ To begin, download this repo and create a new repo through your GitHub account. 
 Run `./grunt-build.command` to install the node packages and run a local server to watch your files locally.
 
 Starter tips: You'll find a logo and background image to use inside `app/assets/img`. The project compiles scripts and styles from `src/scss` and `src/js` into `app/` when you run the `grunt-build` command. The HTML file that you'll edit is `app/index.html`.
+
 
 # Original Boilerplate Documentation
 
