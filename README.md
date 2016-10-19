@@ -9,10 +9,9 @@ When the user selects to give "Annually" or "One-Time" the payment options shoul
 
 To begin, download this repo and create a new repo through your GitHub account. We encourage you to use version control to track your progress.
 
-Run `./grunt-build.command` to install the node packages and run a local server to watch your files locally.
-
 Starter tips: You'll find a logo and background image to use inside `app/assets/img`. The project compiles scripts and styles from `src/scss` and `src/js` into `app/` when you run the `grunt-build` command. The HTML file that you'll edit is `app/index.html`.
 
+Check out the FireShell [documentation](//github.com/toddmotto/fireshell/blob/master/docs/DOCS.md) for instructions on how to run the local development server. You may need to install a few assets before you can get started, such as Node, Git, Grunt.
 
 # Original Boilerplate Documentation
 
