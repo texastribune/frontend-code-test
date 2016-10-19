@@ -1,14 +1,15 @@
 # Texas Tribune - Front End Code Test
-The goal of this test is to see how you create a page based on a prototype. We want you to create a functioning page that console logs or alerts accurate user input when you hit the submit button. We'll be considering:
+
+Imagine that you've been tasked with redesigning our membership sign-up page. When the user decides to give money, we want to offer them a range of membership levels by payment rate with the option to pay annually, monthly or give a one-time donation. You'll find a sketch prototype of the page in the root directory in a file titled `Support Prototype.png`. 
+
+When the user selects to give "Annually" or "One-Time" the payment options should become $35, $60, $150, $250, $500 and $[input]. If they switch to "Monthly", the payment options should become $4, $9, $17, $31, $63 and $[input].
+
+We want you to create a functioning page that console logs or alerts accurate user input when you hit the submit button. We'll be considering:
 - how you organize the project, 
 - how you translate the Desktop prototype into a responsive mobile version and 
 - how your javascript functions. 
 
 Here's a link to our [style guide](http://texastribune.github.io/styleguides/newtribunestyle/) to help you. We don't expect your project to be fully stylized, but it should have basic visual styles applied and be generally consistent with our brand.
-
-Imagine that you've been tasked with redesigning our membership sign-up page. When the user decides to give money, we want to offer them a range of membership levels by payment rate with the option to pay annually, monthly or give a one-time donation. You'll find a sketch prototype of the page in the root directory in a file titled `Support Prototype.png`.
-
-When the user selects to give "Annually" or "One-Time" the payment options should become $35, $60, $150, $250, $500 and $[input]. If they switch to "Monthly", the payment options should become $4, $9, $17, $31, $63 and $[input].
 
 To begin, download this repo and create a new repo through your GitHub account. We encourage you to use version control to track your progress.
 
