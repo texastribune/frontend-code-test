@@ -1,5 +1,8 @@
 # Texas Tribune - Front End Code Test
-The goal of this test is to see how you create a page based on a prototype. We'll be looking at (1) how you construct the project, (2) how you translate the Desktop prototype into a responsive mobile version and (3) how your javascript functions. We want you to create a functioning page that console logs or alerts accurate user input when you hit the submit button.
+The goal of this test is to see how you create a page based on a prototype. We want you to create a functioning page that console logs or alerts accurate user input when you hit the submit button. We'll be considering:
+- how you organize the project, 
+- how you translate the Desktop prototype into a responsive mobile version and 
+- how your javascript functions. 
 
 Here's a link to our [style guide](http://texastribune.github.io/styleguides/newtribunestyle/) to help you. We don't expect your project to be fully stylized, but it should have basic visual styles applied and be generally consistent with our brand.
 
