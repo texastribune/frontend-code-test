@@ -5,13 +5,15 @@ Imagine that you've been tasked with redesigning our membership sign-up page. Wh
 When the user selects to give "Annually" or "One-Time" the payment options should become $35, $60, $150, $250, $500 and $[input]. If they switch to "Monthly", the payment options should become $4, $9, $17, $31, $63 and $[input].
 
 We want you to create a functioning page that console logs or alerts accurate user input when you hit the submit button. We'll be considering:
-- how you organize the project, 
-- how you translate the desktop prototype into a responsive mobile version and 
-- how your JavaScript functions. 
+- How you organize the project
+- How you translate the desktop prototype into a responsive mobile version
+- How your JavaScript functions
+
+Please don't use images other than what we've provided. Forms should use valid form elements.
 
 Here's a link to our [style guide](http://texastribune.github.io/styleguides/newtribunestyle/) to help you. We don't expect your project to be fully stylized, but it should have basic visual styles applied and be generally consistent with our brand.
 
-To begin, download this repo and create a new repo through your GitHub account. We encourage you to use version control to track your progress.
+Download this repo and commit locally. When you're done send us a zip file that includes the `.git` folder so we can view your commit history.
 
 Starter tips: You'll find a logo and background image to use inside `app/assets/img`. The project compiles scripts and styles from `src/scss` and `src/js` into `app/` when you run the `grunt-build` command. The HTML file that you'll edit is `app/index.html`.
 
