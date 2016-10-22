@@ -1,6 +1,6 @@
 # Texas Tribune - Front End Code Test
 
-Imagine that you've been tasked with redesigning our membership sign-up page. When the user decides to give money, we want to offer them a range of membership levels by payment rate with the option to pay annually, monthly or give a one-time donation. You'll find a sketch prototype of the page in the root directory in a file titled `Support Prototype.png`. Here's a link to our existing [donation site](https://support.texasribune.org). You can use this as inspiration, but please don't copy it verbatim. Consider this an opportunity to refactor the design and code. 
+Imagine that you've been tasked with redesigning our membership sign-up page. When the user decides to give money, we want to offer them a range of membership levels by payment rate with the option to pay annually, monthly or give a one-time donation. You'll find a sketch prototype of the page in the root directory in a file titled `Support Prototype.png`. Here's a link to our existing [donation site](https://support.texastribune.org). You can use this as inspiration, but please don't copy it verbatim. Consider this an opportunity to refactor the design and code. 
 
 When the user selects to give "Annually" or "One-Time" the payment options should become $35, $60, $150, $250, $500 and $[input]. If they switch to "Monthly", the payment options should become $4, $9, $17, $31, $63 and $[input].
 
